@@ -1,0 +1,22 @@
+{
+  "name": "videostream",
+  "version": "1.0.0",
+  "description": "A simplest basic video streaming platform!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanyanit-J/videostream.git"
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "Thanyanit-J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thanyanit-J/videostream/issues"
+  },
+  "homepage": "https://github.com/Thanyanit-J/videostream#readme"
+}
